@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/Paul/Downloads/android-5e-solutions/Resources/9. Fragments/Solution/CriminalIntent/app/src/main/res/layout/activity_main.xml" value="0.26132246376811596" />
         <entry key="..\:/Users/Paul/Downloads/android-5e-solutions/Resources/9. Fragments/Solution/CriminalIntent/app/src/main/res/layout/fragment_crime_detail.xml" value="0.22" />
+        <entry key="..\:/Users/Paul/Downloads/android-5e-solutions/Resources/9. Fragments/Solution/CriminalIntent/app/src/main/res/layout/fragment_crime_list.xml" value="0.26132246376811596" />
+        <entry key="..\:/Users/Paul/Downloads/android-5e-solutions/Resources/9. Fragments/Solution/CriminalIntent/app/src/main/res/layout/list_item_crime.xml" value="0.26132246376811596" />
       </map>
     </option>
   </component>
